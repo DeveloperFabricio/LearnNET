@@ -45,21 +45,21 @@ III:
 ### Padrões, conceitos e arquitetura utilizada que serão utilizadas 📂
 
 
-- ☑ Fluent Validation
-- ☑ Padrão Repository
-- ☑ Middleware (Lidar com exceções)
-- ☑ InputModel, ViewModel
-- ☑ DTO’s 
-- ☑ IEntityTipeConfiguration 
-- ☑ Sql Server 
-- ☑ Unit Of Work
-- ☑ HostedService
-- ☑ Domain Event
-- ☑ CQRS
-- ☑ Teste Unitários
-- ☑ Arquitetura Limpa
-- ☑ Microsserviços
-- ☑ RabbitMQ
+- Fluent Validation
+-  Padrão Repository
+-  Middleware (Lidar com exceções)
+-  InputModel, ViewModel
+-  DTO’s 
+-  IEntityTipeConfiguration 
+-  Sql Server 
+-  Unit Of Work
+-  HostedService
+-  Domain Event
+-  CQRS
+-  Teste Unitários
+-  Arquitetura Limpa
+-  Microsserviços
+-  RabbitMQ
 
 
  
