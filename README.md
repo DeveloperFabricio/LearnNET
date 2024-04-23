@@ -42,7 +42,7 @@ III:
 - API Gateway Asaas.
   
 
-### Padrões, conceitos e arquitetura utilizada que serão utilizadas 📂
+### Padrões, conceitos e arquitetura que serão utilizados 📂
 
 
 - Fluent Validation
