@@ -1,0 +1,6 @@
+@LearnNET_HostAddress = http://localhost:5208
+
+GET {{LearnNET_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
